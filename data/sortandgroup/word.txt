@@ -1,0 +1,8 @@
+zhan	6
+zhan	3
+aaaa	8
+aaaa	10
+wre	4
+aaaa	1
+zhan	2
+wre	2
